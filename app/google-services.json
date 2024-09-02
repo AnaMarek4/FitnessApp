@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "211574983534",
+    "project_id": "fitness-app-b2c21",
+    "storage_bucket": "fitness-app-b2c21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211574983534:android:3fe9666607a820c11f4f7f",
+        "android_client_info": {
+          "package_name": "com.amarek.fitnessapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj7RdOS74954_nMxXSvHYTWi2i2TTWqBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
